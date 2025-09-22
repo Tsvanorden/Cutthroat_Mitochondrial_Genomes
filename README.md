@@ -9,3 +9,5 @@ The Alignment directory contains the code that was used to align the mitochondri
 The Beast directory cantains the code that was used to create both Bayesian phylogenies
 
 The Iqtree directory contains the code that was used to create and date the maximum likelihood phylogeny
+
+Plotting was used to make the phylogenetic figures
