@@ -11,3 +11,6 @@ The Beast directory cantains the code that was used to create both Bayesian phyl
 The Iqtree directory contains the code that was used to create and date the maximum likelihood phylogeny
 
 Plotting was used to make the phylogenetic figures
+
+Pairwise was used to make the heatmap for pariwise comparisons of haplotypes
+
